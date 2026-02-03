@@ -85,6 +85,10 @@ This project is designed for beginners in Arduino, robotics, and embedded system
 4. Open the project `.ino` file  
 5. Click Upload  
 
+
+## Source Code
+The complete Arduino source code is available in:
+- Arduino-Based-Fire-Fighting-Robot.ino
 ---
 
 ## Applications
